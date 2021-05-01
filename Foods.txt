@@ -1,3 +1,6 @@
 rice
 roti
 sabji
+dal
+chicken 
+fish
