@@ -4,5 +4,8 @@ sabji
 dal
 chicken 
 fish
+chowmin
+momo
+
 
 all done
